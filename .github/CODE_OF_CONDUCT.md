@@ -1,27 +1,76 @@
+# Contributor Covenant Code of Conduct
 
-This document provides community guidelines for a safe, respectful, productive, and collaborative place for any person who is willing to contribute to the code provided in this respository. 
+## Our Pledge
 
-The document applies in all “collaborative spaces” in which the code is being collaborated on, which is defined as communications channels used for purposes of collaboration on the code (such as issue comments, submitted patches, commit comments, etc.).
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, sex characteristics, gender identity and expression,
+level of experience, education, socio-economic status, nationality, personal
+appearance, race, religion, or sexual identity and orientation.
 
-The guidelines here reflect the values which are to be protected here.
+## Our Standards
 
-1. Good ideas can come from anywhere.
-2. Code should work for communities, not the other way around.
-3. Code should not adversely impact the goodwill of the services it relies on.
-4. If there is something wrong, don't ignore the issue.
-5. People can work together to build something which extends beyond themselves.
+Examples of behavior that contributes to creating a positive environment
+include:
 
-With those values in mind, the guidelines which contributors should follow:
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
 
-1. Participants should be tolerant of others.
-2. Personal views and beliefs are not to be used to excuse harassment or any other behavior which is harmful to others collaborating.
-3. Behaviour which a reasonable individual could consider to be harassment will not be tolerated.
-4. When code is criticized, the criticism should be founded in the code alone. It should never be used to single out a contributor.
-5. Critisism of code should be for the purpose of improving the project.
-6. Code should be criticized (with the goal of protecting the project and it's users) if there is something wrong with it.
+Examples of unacceptable behavior by participants include:
 
-Those who violate the guidelines as written, as well as those who intentionally tow the line to violate the values expressed which these guidelines protect will be removed.
+* The use of sexualized language or imagery and unwelcome sexual attention or
+ advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic
+ address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+ professional setting
 
-The curent point of contact for any issues arising with this is sinbadcogs-conduct@michaelhall.tech
-This address will be monitored for so long as it is included as the point of contact.
-Should it change at a later date, the new address will be reflected in this document.
+## Our Responsibilities
+
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
+
+Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.
+
+## Scope
+
+This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.
+
+## Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at ping@crossedfall.io. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.
+
+Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+
+[homepage]: https://www.contributor-covenant.org
+
+For answers to common questions about this code of conduct, see
+https://www.contributor-covenant.org/faq
