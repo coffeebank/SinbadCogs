@@ -97,25 +97,9 @@ or intended to be replaced by newer alternatives.
 
 They aren't designed to actively cause harm, but I'm not advertising them.
 
-## Why weren't you working on this/as invested in this anymore?
+## License
+All changes after [commit cf59da1ffdc449d550525fd06fc0ce1a3d341f5a on 2020/08/20 5:08 PM CDT](https://github.com/Crossedfall/SinbadCogs/commit/cf59da1ffdc449d550525fd06fc0ce1a3d341f5a) are licensed under [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0.html).
 
-Significant personal disagreements which led to wanting to have nothing to do with Red's community.
+All code before [commit cf59da1ffdc449d550525fd06fc0ce1a3d341f5a on 2020/08/20 5:08 PM CDT](https://github.com/Crossedfall/SinbadCogs/commit/cf59da1ffdc449d550525fd06fc0ce1a3d341f5a) is licensed under [MIT](https://opensource.org/licenses/MIT)
 
-## Why are you working on this again?
-
-Two communities that I work closely with would like to continue using Red for now.
-I am being paid for my time spent supporting the needs of these communities.
-
-## Custom forks
-
-While the license intentionally allows custom forks, if you fork these cogs to make changes intended for use as a fork, please take the time to ensure the following changes
-
-1. Update the info.json to note that it is a modification and add yourself to the author list.
-2. If you modify the way in which data is stored, please create a new config object with a seperate unique id. This includes changing how data is accessed (different key) changing what data is stored in a way different to how I stored it, deleting data which is stored, and anything else which would break a user switching from my repo, to your fork, and then back.
-3. Add something to the cog help text to make it clear that it is a modification.
-
-This is a very short list of requests to ensure I don't end up being support for your modifications (if you want your modifications to be supported, convince me they belong via issue)
-
-Assuming these requests are abided by,
-you may take this section of the Readme as explicit consent for modification under
-Red's Cogboard rules. (sepcifically pertaining to "Do not ask for a developer to modify another developer’s code, cog, or source without their explicit permission.")
+See LICENSE and MIT-LICENSE for more details
