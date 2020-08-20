@@ -100,6 +100,6 @@ They aren't designed to actively cause harm, but I'm not advertising them.
 ## License
 All changes after [commit cf59da1ffdc449d550525fd06fc0ce1a3d341f5a on 2020/08/20 5:08 PM CDT](https://github.com/Crossedfall/SinbadCogs/commit/cf59da1ffdc449d550525fd06fc0ce1a3d341f5a) are licensed under [GNU AGPL v3](https://www.gnu.org/licenses/agpl-3.0.html).
 
-All code before [commit cf59da1ffdc449d550525fd06fc0ce1a3d341f5a on 2020/08/20 5:08 PM CDT](https://github.com/Crossedfall/SinbadCogs/commit/cf59da1ffdc449d550525fd06fc0ce1a3d341f5a) is licensed under [MIT](https://opensource.org/licenses/MIT)
+All code before [commit cf59da1ffdc449d550525fd06fc0ce1a3d341f5a on 2020/08/20 5:08 PM CDT](https://github.com/Crossedfall/SinbadCogs/commit/cf59da1ffdc449d550525fd06fc0ce1a3d341f5a) is licensed under [MIT](https://github.com/Crossedfall/SinbadCogs/blob/v3/MIT)
 
 See LICENSE and MIT-LICENSE for more details
