@@ -659,3 +659,11 @@ specific requirements.
 if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU AGPL, see
 <https://www.gnu.org/licenses/>.
+
+-----------------------------------------------------------------------------
+
+Copyright Notices
+-----------------
+
+All code before commit cf59da1ffdc449d550525fd06fc0ce1a3d341f5a on 2020/08/20 5:08 PM CDT is solely licensed under MIT
+Copyright (c) 2017-2020 Michael Hall as per https://github.com/Crossedfall/SinbadCogs/blob/v3/MIT
