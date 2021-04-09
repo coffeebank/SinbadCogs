@@ -111,9 +111,15 @@ class Relays(commands.Cog):
         if message.type.value != 0:
             return
         for dest in self.gather_destinations(message):
-            await dest.send(
-                embed=embed_from_msg(message, filter_invites=self.scrub_invites)
-            )
+            if self.scrub_invites == True:
+                await dest.send(
+                    embed=embed_from_msg(message, filter_invites=self.scrub_invites)
+                )
+            else:
+                await dest.send(
+                    message
+                    # embed=embed_from_msg(message, filter_invites=self.scrub_invites)
+                )
 
     def validate_inputs(self, *chaninfo: str):
         ret = {}
