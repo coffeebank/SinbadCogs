@@ -117,7 +117,7 @@ class Relays(commands.Cog):
                 )
             else:
                 await dest.send(
-                    message
+                    message.content
                     # embed=embed_from_msg(message, filter_invites=self.scrub_invites)
                 )
 
