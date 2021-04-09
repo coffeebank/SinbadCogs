@@ -106,8 +106,8 @@ class Relays(commands.Cog):
     @commands.Cog.listener()
     async def on_message(self, message: discord.Message):
         await self._load_event.wait()
-        if message.author == self.bot.user:
-            return
+        # if message.author == self.bot.user:
+        #     return
         if message.type.value != 0:
             return
         for dest in self.gather_destinations(message):
