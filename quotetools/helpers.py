@@ -50,7 +50,7 @@ def embed_from_msg(message: discord.Message) -> discord.Embed:
     if color:
         em.color = color
 
-    em.set_author(name=f"{author.name}", url=f"{message.jump_url}", icon_url=avatar)
+    em.set_author(name=f"{author.name} ▸", url=f"{message.jump_url}", icon_url=avatar)
     em.set_footer(icon_url=guild.icon_url, text=footer)
     if message.attachments:
         a = message.attachments[0]
